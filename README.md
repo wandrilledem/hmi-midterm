@@ -19,11 +19,6 @@ Python 3.6 or higher
 PyQt5
 Setup
 
-Clone the repository:
-
-bashgit clone https://github.com/username/pokemon-memory-game.git
-cd pokemon-memory-game
-
 Install the required dependencies:
 
 bashpip install PyQt5
